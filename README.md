@@ -2,6 +2,8 @@
 
 React ve Vite ile geliştirilmiş, renkli, modern ve mobil uyumlu bir kişisel harcama takip web uygulamasıdır.
 
+🔗 **Canlı Demo:** [dazzling-faun-4746a5.netlify.app](https://dazzling-faun-4746a5.netlify.app/)
+
 Spendly, kullanıcıların günlük harcamalarını kaydetmesini, düzenlemesini, kategorilere ayırmasını ve harcama alışkanlıklarını takip etmesini amaçlamaktadır.
 
 ## ✨ Özellikler
@@ -129,11 +131,7 @@ Başka cihazlarda veya farklı tarayıcılarda kayıtlar otomatik olarak görün
 
 ## 📸 Ekran Görüntüsü
 
-Spendly uygulamasının ana ekran görüntüsü bu bölüme eklenecektir.
-
-Ekran görüntüsü dosyası `screenshots/spendly.png` olarak kaydedildiğinde aşağıdaki Markdown satırı kullanılacaktır:
-
-`![Spendly Ana Ekran](screenshots/spendly.png)`
+![Spendly Ana Ekran](screenshots/spendly.png)
 
 ## ⚠️ Bilinen Sınırlamalar
 
